@@ -1,2 +1,2 @@
 # Spider
-A python script that crawls through the internet and extracts the information required
+Basic implementation of  a web-crawler which contains the snippets of all the steps reqiured right from scratch. All the parts of the code are implemented seperately for a better understanding.
