@@ -24,4 +24,3 @@ print(body)
 p  = (body[1])
 print(p.get_text()) #thus the sesired paragraph is accessed this way.
 
-# https://www.dataquest.io/blog/web-scraping-tutorial-python/
